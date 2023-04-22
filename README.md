@@ -1,0 +1,1 @@
+# malaria_cnn_model
